@@ -1,0 +1,22 @@
+{
+    "inventory": [
+        {
+            "name": "Milk",
+            "schedule": [
+                {"time": "3.04", "quantity": 1, "unit": "gallon"}
+            ]
+        },
+        {
+            "name": "Eggs",
+            "schedule": [
+                {"time": "1.16", "quantity": 1, "unit": "dozen"}
+            ]
+        },
+        {
+            "name": "Cheese",
+            "schedule": [
+                {"time": "5.99", "quantity": 1, "unit": "pound"}
+            ]
+        }
+    ]
+}
